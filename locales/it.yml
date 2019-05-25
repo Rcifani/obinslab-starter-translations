@@ -1,0 +1,265 @@
+# Common
+common.operate.failed: Operazione fallita
+common.operate.success: Operazione eseguita con successo
+common.tooltip_title: Messaggio
+common.input.placeholder: Inserire un nome
+common.rename: Rinomina
+common.import: Importa
+common.export: Esporta
+common.add: Aggiungi
+common.create: Crea
+common.add.success: Aggiunto con successo
+common.add.failed: Errore durante la creazione
+common.delete: Elimina
+common.delete.success: Eliminato con successo
+common.delete.failed: Errore durante la eliminazione
+common.copy: Copoa
+common.copy.success: Copiato con successo
+common.copy_text: copia
+common.paste: Incolla
+common.reset: Riavvia
+common.clone: Clona
+common.cancel: Cancella
+common.ok: OK
+common.save: Salva
+common.save_as: Salva come
+common.save.success: Salvato con successo
+common.apply: Applica
+common.apply.success: Applicato con successo
+common.apply.failed: Errore durante l'applicazione
+common.confirm.show_detail: Mostra dettagli
+common.network.connection.error: Errore di rete
+common.please_quit_edit: Esci dal edit
+common.time_unit.hours: " Ore
+common.time_unit.millisecond: Millisecondi
+
+# Tray
+app.tray.show_window: Apri Obinslab Starter
+app.tray.preferences: Preferenze
+app.tray.quit: Esci
+app.tray.still_running_here: Obinslab Starter è ancora aperto.
+
+# Manage Menu
+app.manage: Gestisci
+app.manage.preferences: Preferenze
+app.manage.device_list: Lista dispositivi
+app.manage.feedback: Feedback
+
+# Feedback
+feedback: Feedback
+feedback.title: Feedback
+feedback.content: Contenuto
+feedback.content.no_empty: Per favore inserisci contenuto
+feedback.content.max_1000: Massimo 1000 caratteri
+feedback.email.label: Email (Opzionale)
+feedback.email.placeholder: Inserisci la tua e-mail
+feedback.email.not_valid: Indirizzo e-mail non valido
+feedback.submit: Avanti
+feedback.submit.error: Errore nell'invio, riprova
+feedback.submit.success: Inviato con successo, premi per chiudere
+feedback.support_email: "Email di supporto: "
+
+# Preference Window
+preferences.setting: Impostazioni
+preferences.setting.language: Lingua
+preferences.setting.theme: Tema
+preferences.setting.theme.dark: Scuro
+preferences.setting.theme.light: chiaro
+preferences.setting.update_channel: Sorgente aggiornamento
+preferences.setting.update_channel.beta: Sviluppo
+preferences.setting.update_channel.latest: Rilascio
+preferences.setting.animation: Animazione all' avvio
+preferences.setting.animation.on: On
+preferences.setting.animation.off: Off
+preferences.setting.x_action: Chiudi l'azione sulla finestra principale
+preferences.setting.minimize_to_tray: Rimpicciolisci per procedere
+preferences.setting.quit_program: Chiudi il programma
+preferences.setting.auto_launch: Avvia al login
+preferences.setting.auto_launch.yes: SI
+preferences.setting.auto_launch.no: Np
+preferences.update: Aggiorna
+preferences.update.check: Cerca nuove versioni
+preferences.update.check.failed: Prova di nuovo
+preferences.update.version.current: Versione attuale
+preferences.update.version.new: Nuova versione
+preferences.update.version.no_new: Nessuna nuova versione
+preferences.update.download: Download
+preferences.update.download.done: Pacchetto di aggiornamento scaricato
+preferences.update.install_now: Scarica ora
+preferences.help: Aiuto
+preferences.help.user-manual: Manuale utente
+preferences.about: Informazioni
+
+# Home Window
+home.welcome:  Ciao mondo
+home.please_connect_kbd_with_cable: Per piacere connettere il dispositivo
+home.open_device_failed: Errore nell'apertura
+home.open_device_failed_linux: Errore nell'apertura, controlla il capitolo 1.3 sul manuale di istruzioni
+
+# Main Window, General
+kbd.general: Generale
+kbd.general.info: Informazioni
+kbd.general.info.device_model: Modello dispositivo
+kbd.general.info.serial_number: Numero seriale
+kbd.general.info.battery: Batteria
+kbd.general.info.running_time: Tempo di apertura
+kbd.general.setting: Impostazione
+kbd.general.setting.layout: Layout
+kbd.general.setting.tap_layout: Tap
+kbd.general.setting.magic_fn: Magic Fn
+kbd.general.setting.macro_trigger: Macro
+kbd.general.setting.capslock_led: CapsLock Led
+kbd.general.setting.auto_sleep: Auto Sleep
+kbd.general.setting.options.disable: Disabilita
+kbd.general.setting.options.enable: Abilita
+kbd.general.setting.options.default: Default
+kbd.general.setting.options.custom: Custom
+kbd.general.setting.options.fn1: Fn1
+kbd.general.setting.options.fn2: Fn2
+kbd.general.setting.options.capslock_all: Tutti
+kbd.general.bluetooth: Bluetooth
+kbd.general.bluetooth.bind: Combinazione Bluetooth 
+kbd.general.bluetooth.clean_bind: Reimposta la combinazione
+
+# Main Window, Firmware
+kbd.firmware: Aggiorna il firmware
+kbd.firmware.key: Processo applicazione
+kbd.firmware.led: Processo luci
+kbd.firmware.ble: Processo bluetooth 
+kbd.firmware.list: Lista firmware 
+kbd.firmware.annepro1.download.firmware: Download Firmware
+kbd.firmware.annepro1.download.latest_firmware: Scarica ultimo Firmware
+kbd.firmware.annepro1.download.dfu_tool: Scarica DFU Tool
+kbd.firmware.find_new_version: "Trova il nuovo firmware: "
+kbd.firmware.no_new_version: Il firmware corrente è l'ultimo
+kbd.fireware.upgrade.btn: Aggiorna
+kbd.firmware.upgrade.btn.to_latest: Aggiorna alla ultima versione
+kbd.firmware.upgrade.title: Aggiornamento firmware 
+kbd.firmware.upgrade.content: Per piacere non scollegare il cavo USB durante l'aggiornamento
+kbd.firmware.upgrade.status.downloading: Scaricando il firmware...
+kbd.firmware.upgrade.status.download_failed: Errore nel dowload del firmware
+kbd.firmware.upgrade.status.entering_aip: Modalità aggiornamento
+kbd.firmware.upgrade.status.writing_key: Scrivento dati sul processo dell applicazione...
+kbd.firmware.upgrade.status.writing_led: Scrivento dati sul processo delle luci...
+kbd.firmware.upgrade.status.writing_ble: Scrivento dati sul processo del bluetooth...
+kbd.firmware.upgrade.status.restart: Riavviando la tastiera...
+kbd.firmware.upgrade.status.success: Firmware aggiornato correttamente.
+
+# Main Window, LEDs
+kbd.led: Luci
+kbd.led.effect.group: Gruppo luci
+kbd.led.effect.group.reset: Reimposta
+kbd.led.effect.group.delete.confirm_content: Sei sicuro di voler eliminare questo gruppo?
+kbd.led.effect.list: Lista luci
+kbd.led.effect.list.limit.annepro1_three: Limitato a 3 effetti in un solo gruppo per ANNE PRO 1.
+kbd.led.effect.list.limit.annepro2_sixteen: Limitato a 16 effetti in un solo gruppo.
+kbd.led.effect.type: Effetti luci dinamici
+kbd.led.effect.delete.confirm_content: Sei sicuro di volere eliminare questo effetto.
+kbd.led.effect.preview: Anteprima
+kbd.led.effect.dynamic_colors: Tavolo dinamico delle luci.
+kbd.led.color.palette: Lista colori.
+kbd.led.color.default: Predefinito
+kbd.led.color.custom: Personale
+kbd.led.color.custom.save: Salva il colore corrente
+# Keycap Groups
+kbd.keycap.group.alphabet: Carattere
+kbd.keycap.group.numbers: Numero
+kbd.keycap.group.bigs: Tasto grande
+kbd.keycap.group.all: tutti
+# Dynamic Light Effects
+dynamic_none: Nessuno
+dynamic_breath: Respiro
+dynamic_breath_grad: Respito Grad
+dynamic_poptang: Poptang
+dynamic_rainbow: Arcobaleno
+dynamic_breath_single: Respiro singolo
+dynamic_trigger_breath: Respiro(Trigger)
+dynamic_trigger_rainbow: Arcobaleno(Trigger)
+# Default LED group
+intl.light.group.default: Predefinito
+intl.led.red: Rosso
+intl.led.yellow: Giallo
+intl.led.green: Verde
+intl.led.cyan: Ciano
+intl.led.blue: Blu
+intl.led.purple: Viola
+intl.led.static.single: Statico singolo
+intl.led.static.multi: Statico multiplo
+intl.dynamic.breath: Respiro
+intl.dynamic.breath.grad: Respiro grad
+intl.dynamic.poptang: Poptang
+intl.dynamic.breath.rainbow: Arcobaleno
+intl.dynamic.breath.single: Respiro singolo
+intl.dynamic.trigger.breath: Respiro(Trigger)
+intl.dynamic.trigger.rainbow: Arcobaleno(Trigger)
+
+# Main Window, Layout
+kbd.layout: Layout
+kbd.layout.reset.confirm_content: Sei sicuro di volere ripristinare questo layout al predefinito?
+kbd.layout.delete.confirm_content: Sei sicuro di volere eliminare questo layout?
+kbd.layout.set_keycap_null: Imposta vuoto
+# Sidebar titles
+kbd.keycode_group.annepro: ANNE PRO
+kbd.keycode_group.system: Sistema
+kbd.keycode_group.alphabet: Carattere
+kbd.keycode_group.number: Numero
+kbd.keycode_group.modifier: Modificatore
+kbd.keycode_group.arrow: Freccia
+kbd.keycode_group.function: Funzione
+kbd.keycode_group.media: Media
+kbd.keycode_group.keypad: Tastierino numerico
+kbd.keycode_group.other: Altro
+# Key tooltips
+icon.left_gui: Sinistra Win
+
+Cmd
+icon.right_gui: Destra Win/Cmd
+icon.mute: Muta
+icon.volume.up: Volume su
+icon.volume.down: Volume giù
+icon.bl.toggle: Accendi/Spegni luci
+icon.bl.color: Cambia colore
+icon.bl.increase: Luminosità su
+icon.bl.decrease: Luminosità giù
+icon.bl.battery: Livello batteria
+icon.ble.wl_1: Bluetooth 1
+icon.ble.wl_2: Bluetooth 2
+icon.ble.wl_3: Bluetooth 3
+icon.ble.wl_4: Bluetooth 4
+icon.fn.wheel: Ruota da gioco
+icon.prev.track: Traccia precedente
+icon.next.track: Prossima traccia
+icon.play.pause: Riproduci/Pausa
+# The active layout read from keyboard
+intl.layout.current: Attuale
+# default keyboard layouts
+intl.keymap.qwerty: Qwerty
+intl.keymap.mac: Mac
+intl.keymap.dvorak: Dvorak
+
+# Main Window, Macros
+kbd.macro: Macro
+kbd.macro.group: Gruppo macro
+kbd.macro.group.delete.confirm_content: Sei sicuro di volere eliminare questo gruppo macro?
+kbd.macro.add: Aggiungi macro.
+kbd.macro.please_add_macro_group: Aggiungi gruppo macro.
+kbd.macro.please_add_macro: Aggiungi macro
+kbd.macro.delete.confirm_content: Sei sicuro di volere eliminare questa macro
+kbd.macro.amount_limit.annepro2_sixteen: Massimo 16 macro
+kbd.macro.amount_limit.annepro_eight: Solo 8 macro per Anne Pro 1
+kbd.macro.code: Codice Macro
+kbd.macro.code.rec: Registra macro
+kbd.macro.code.empty: Codice macro vuoto
+kbd.macro.code.exceeded: Massimo codice marco
+kbd.macro.code.missing_release_key: Tasto di rilascio mancante
+kbd.macro.code.missing_press_key: Tasto da premere mancante
+kbd.macro.code.value.insert_timer_block: Insrisci il blocco del tempo
+kbd.macro.code.value.move_up: Muovi su
+kbd.macro.code.value.move_down: Muovi giù
+
+# Other Messages
+msg.open_device_failed: Errore apertura file 
+msg.missing_required_data_field: Data file mancante
+msg.file_not_compatible_your_device: Questo file non è compatibile con questo dispositivo
+msg.crc_check_error: CRC check error, please don't edit the file exported
+msg.json_data_invalid: JSON data non validi
